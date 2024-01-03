@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.routine{
+     margin: auto;
+}
+.heading{
+    background-color: greenyellow;
+    color: black;
+}
+
+#mon{
+    text-decoration: underline;
+    text-decoration-color: black;
+   
+}
+
+
+.section1{
+   background-image: url(./AF49527C-0F69-442E-8CBF-165F0B26C402.jpg);
+    background-repeat: no-repeat;
+    background-color: red;
+    background-position: center;
+    background-size: cover;
+    padding: 100pxs;
+    
+    
+
+}
+
+.btn{
+    display: block;
+    margin: 40px auto;
+    font-size: 25px;
+    padding: 10px;
+    color: rgb(65, 79, 65);
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: aqua;
+    box-shadow: 20px 20px 10px rgb(207, 183, 183);
+    cursor: pointer;
+    
+}
+
+.btn a{
+    text-decoration: none;
+}
